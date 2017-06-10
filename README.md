@@ -1,3 +1,2 @@
 # test
-test
-testafter
+test_after
